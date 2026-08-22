@@ -12,7 +12,7 @@
 <tr>
 <td width="220" align="center" valign="middle">
 
-<img src="BLAZER_PROFILE_PHOTO.png" width="190" height="190" style="border-radius:50%;border:4px solid;border-image:linear-gradient(45deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB) 1;object-fit:cover;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
+<img src="BLAZER PROFILE PHOTO.png" width="190" height="190" style="border-radius:50%;border:4px solid;border-image:linear-gradient(45deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB) 1;object-fit:cover;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
 
 </td>
 <td valign="middle" align="left">
