@@ -2,12 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,30:8A2BE2,60:FF206E,85:FB5607,100:FFD60A&height=160&section=header&animation=fadeIn&text=WELCOME&fontColor=F5F5F5&fontSize=38&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=F7B733,00C9A7,5B86E5,9D50BB&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Building+Practical%2C+Real-World+Software;Problem+Solver+%7C+Continuous+Learner;Turning+Ideas+Into+Working+Code" alt="init"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=F7B733,00C9A7,5B86E5,9D50BB&center=true&vCenter=true&width=560&lines=Welcome+To+My+Developer+Space;Here's+A+Glimpse+Of+My+Work;Explore+My+Projects+%26+Journey+Below" alt="init"/>
 
 <br/>
-
-
-
 
 </div>
 
