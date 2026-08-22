@@ -12,7 +12,7 @@
 <tr>
 <td width="220" align="center" valign="middle">
 
-<img src="BLAZER PROFILE PHOTO.png" width="190" height="190" style="border-radius:50%;border:4px solid;border-image:linear-gradient(45deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB) 1;object-fit:cover;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
+<img src="BLAZER_PROFILE_PHOTO.png" width="190" height="190" style="border-radius:50%;border:4px solid;border-image:linear-gradient(45deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB) 1;object-fit:cover;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
 
 </td>
 <td valign="middle" align="left">
@@ -175,25 +175,6 @@ Insight into industrial operations, manufacturing processes and organizational w
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B86E5,50:9D50BB,100:FF6B6B&height=4&width=100%25"/>
-
-## 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harimadav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B733&icon_color=00C9A7&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harimadav&theme=radical&hide_border=true&background=0D1117&ring=9D50BB&fire=FF6B6B&currStreakLabel=00C9A7" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harimadav&theme=redical&bg_color=0D1117&color=F7B733&line=00C9A7&point=FF6B6B&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harimadav&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,50:00C9A7,100:F7B733&height=4&width=100%25"/>
 
 <div align="center">
 
