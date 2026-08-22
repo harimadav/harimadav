@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:F7B733,50:00C9A7,75:5B86E5,100:9D50BB&height=150&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,30:8A2BE2,60:FF206E,85:FB5607,100:FFD60A&height=160&section=header&animation=fadeIn&text=WELCOME&fontColor=F5F5F5&fontSize=38&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=F7B733,00C9A7,5B86E5,9D50BB&center=true&vCenter=true&width=520&lines=%3E+booting+developer_profile...;%3E+decrypting+identity...;%3E+loading+skills.exe;%3E+access+granted+%E2%9C%93" alt="init"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=F7B733,00C9A7,5B86E5,9D50BB&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Building+Practical%2C+Real-World+Software;Problem+Solver+%7C+Continuous+Learner;Turning+Ideas+Into+Working+Code" alt="init"/>
+
+<br/>
+
+
+
 
 </div>
 
@@ -10,23 +15,30 @@
 
 <table width="100%">
 <tr>
-<td width="220" align="center" valign="middle">
+<td width="240" align="center" valign="middle">
 
-<img src="BLAZER PROFILE PHOTO.png" width="190" height="190" style="border-radius:50%;border:4px solid;border-image:linear-gradient(45deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB) 1;object-fit:cover;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
+<img src="BLAZER PROFILE PHOTO.png" height="260" style="border-radius:24px;border:4px solid;border-image:linear-gradient(45deg,#2E0854,#8A2BE2,#FF206E,#FB5607,#FFD60A) 1;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
 
 </td>
 <td valign="middle" align="left">
 
 <h1 style="letter-spacing:3px; background:linear-gradient(90deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB); -webkit-background-clip:text;">S HARI SHANKAR</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00C9A7,5B86E5,F7B733&center=false&vCenter=true&width=480&lines=Computer+Science+Engineering+Student;Developer+%7C+Problem+Solver;Continuous+Learner+%7C+AI-Assisted+Builder" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00C9A7,5B86E5,F7B733&center=false&vCenter=true&width=480&lines=Computer+Science+Engineering+Student;Developer+%7C+Problem+Solver;Continuous+Learner+%7C+AI-Assisted+Builder;Turning+Ideas+Into+Working+Code" alt="typing"/>
 
 <br/>
 
 <a href="https://github.com/harimadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/harishankar2803"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:harishankarism@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=harimadav&style=for-the-badge&color=9D50BB&label=PROFILE+VIEWS" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🚀_Building-FF6B6B?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🌱_Learning-F7B733?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💡_Problem_Solving-00C9A7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🤝_Collaborating-5B86E5?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🤖_AI--Assisted-9D50BB?style=flat-square&labelColor=0D1117"/>
 
 </td>
 </tr>
@@ -36,6 +48,10 @@
 
 🎓&nbsp;<b>B.E. CSE</b>&nbsp;&nbsp;·&nbsp;&nbsp;📍&nbsp;<b>Rajalakshmi Institute of Technology</b>&nbsp;&nbsp;·&nbsp;&nbsp;💻&nbsp;<b>Developer</b>&nbsp;&nbsp;·&nbsp;&nbsp;⚡&nbsp;<b>AI-Assisted Workflow</b>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=560&lines=%22Code+%2B+curiosity+%2B+AI-assisted+workflows+%3D+faster%2C+smarter+builds.%22" alt="quote"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:5B86E5,100:9D50BB&height=4&width=100%25"/>
@@ -44,7 +60,7 @@
 
 <img align="right" width="180" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif">
 
-Computer Science Engineering student who enjoys turning ideas into working software. Comfortable across the stack — from data-driven systems to role-based platforms — and always experimenting with how AI-assisted workflows can make development faster and smarter.
+Computer Science Engineering student who enjoys turning ideas into working software. Comfortable across the stack from data-driven systems to role-based platforms and always experimenting with how AI-assisted workflows can make development faster and smarter.
 
 <br clear="right"/>
 
@@ -75,6 +91,8 @@ Computer Science Engineering student who enjoys turning ideas into working softw
 
 ### 🤖 AI-ASSISTED WORKFLOW
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=600&color=00C9A7,F7B733,FF6B6B&center=true&vCenter=true&width=560&lines=Automating+repetitive+tasks...;Optimizing+dev+workflows...;Accelerating+problem+solving...;Efficiency%2B%2B" alt="ai-typing"/>
+
 Using modern AI tools to accelerate development, automate repetitive tasks, optimize workflows and improve efficiency.
 
 **Code + AI-assisted workflows = faster, smarter development.**
@@ -84,6 +102,10 @@ Using modern AI tools to accelerate development, automate repetitive tasks, opti
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:F7B733,100:FF6B6B&height=4&width=100%25"/>
 
 ## 🚀 PROJECTS
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/assets/pencil2.gif" width="35"/>
+</div>
 
 <table width="100%">
 <tr>
@@ -126,13 +148,30 @@ System for managing book records, borrowing, returning, and availability trackin
 
 ## 💼 EXPERIENCE
 
-**🔹 Software Development Intern** — CODTECH IT Solutions Private Limited
-<sub>`Jun 2025 – Jul 2025`</sub>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/assets/briefcase.gif" width="45"/>
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔹 Software Development Intern**
+<sub>CODTECH IT Solutions Private Limited · `Jun 2025 – Jul 2025`</sub>
+
 Hands-on exposure to software development concepts, workflows, and development methodologies.
 
-**🔹 Inplant Trainee** — Heavy Vehicles Factory (HVF)
-<sub>`Jul 2025`</sub>
+</td>
+<td width="50%" valign="top">
+
+**🔹 Inplant Trainee**
+<sub>Heavy Vehicles Factory (HVF) · `Jul 2025`</sub>
+
 Insight into industrial operations, manufacturing processes and organizational workflows.
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7B733,50:00C9A7,100:5B86E5&height=4&width=100%25"/>
 
@@ -144,6 +183,10 @@ Insight into industrial operations, manufacturing processes and organizational w
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,50:FF6B6B,100:F7B733&height=4&width=100%25"/>
 
 ## 🏆 ACHIEVEMENTS
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/assets/trophy.gif" width="45"/>
+</div>
 
 <div align="center">
 
@@ -180,12 +223,18 @@ Insight into industrial operations, manufacturing processes and organizational w
 
 ## 💬 LET'S BUILD SOMETHING USEFUL.
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/assets/handshake.gif" width="60"/>
+
 <a href="https://github.com/harimadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/harishankar2803"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:harishankarism@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,25:5B86E5,50:00C9A7,75:F7B733,100:FF6B6B&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="thanks"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,15:FB5607,40:FF206E,70:8A2BE2,100:2E0854&height=120&section=footer"/>
 
 </div>
