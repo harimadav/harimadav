@@ -12,16 +12,16 @@
 
 <table width="100%">
 <tr>
-<td width="35%" align="center" valign="middle">
+<td width="240" align="center" valign="middle">
 
-<img src="BLAZER PROFILE PHOTO.png" style="max-height:260px;max-width:100%;height:auto;width:auto;border-radius:24px;border:4px solid;border-image:linear-gradient(45deg,#2E0854,#8A2BE2,#FF206E,#FB5607,#FFD60A) 1;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
+<img src="BLAZER PROFILE PHOTO.png" height="260" style="border-radius:24px;border:4px solid;border-image:linear-gradient(45deg,#2E0854,#8A2BE2,#FF206E,#FB5607,#FFD60A) 1;box-shadow:0 0 25px rgba(155,80,255,0.5);" alt="S Hari Shankar"/>
 
 </td>
-<td width="65%" valign="middle" align="left">
+<td valign="middle" align="left">
 
 <h1 style="letter-spacing:3px; background:linear-gradient(90deg,#FF6B6B,#F7B733,#00C9A7,#5B86E5,#9D50BB); -webkit-background-clip:text;">S HARI SHANKAR</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00C9A7,5B86E5,F7B733&center=false&vCenter=true&width=480&lines=Computer+Science+Engineering+Student;Developer+%7C+Problem+Solver;Continuous+Learner+%7C+AI-Assisted+Builder;Turning+Ideas+Into+Working+Code" alt="typing" style="max-width:100%;height:auto;"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00C9A7,5B86E5,F7B733&center=false&vCenter=true&width=480&lines=Computer+Science+Engineering+Student;Developer+%7C+Problem+Solver;Continuous+Learner+%7C+AI-Assisted+Builder;Turning+Ideas+Into+Working+Code" alt="typing"/>
 
 <br/>
 
